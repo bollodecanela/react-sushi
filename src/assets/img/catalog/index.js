@@ -1,0 +1,10 @@
+export { default as desserts } from "./desserts-catalog.png";
+export { default as drinks } from "./drinks-catalog.png";
+export { default as gunkans } from "./gunkans-catalog.png";
+export { default as parts } from "./parts-catalog.png";
+export { default as rolls } from "./rolls-catalog.png";
+export { default as salads } from "./salads-catalog.png";
+export { default as sashimi } from "./sashimi-catalog.png";
+export { default as sets } from "./sets-catalog.png";
+export { default as soups } from "./soups-catalog.png";
+export { default as sushi } from "./sushi-catalog.png";

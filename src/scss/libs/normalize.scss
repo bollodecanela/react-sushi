@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans Pro", sans-serif;
+}
+a {
+  text-decoration-line: none;
+}
+img {
+  pointer-events: none;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.owl-dots {
+  display: none;
+}
+.owl-nav {
+  display: none;
+}
+::-webkit-scrollbar {
+  width: 14px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #e0b089;
+}
+::-webkit-scrollbar-track {
+  background: #005d48;
+}
+.container {
+  display: flex;
+  width: 1200px;
+  margin: 4px auto;
+  align-items: center;
+}
